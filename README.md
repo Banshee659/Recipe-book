@@ -1,5 +1,7 @@
 # The recipe book
 
+<img width="1382" alt="Screen Shot 2019-04-30 at 4 14 51 pm" src="https://user-images.githubusercontent.com/18041104/56943551-5a27c180-6b63-11e9-9a82-85e2200bc9f9.png">
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
 ## Development server
